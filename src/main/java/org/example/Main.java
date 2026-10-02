@@ -16,7 +16,7 @@ public class Main {
         do {
             System.out.println("AGROJAVA - Sistema Integrado de Agronegócio");
             System.out.println();
-            System.out.print("Seja bem-vindo(a) ao AGROJAVA, leia as opções e em seguida digite qual deseja para processeguir: \n");
+            System.out.print("Seja bem-vindo(a) ao AGROJAVA, leia as opções e em seguida digite qual deseja para continuar: \n");
             System.out.println("Digite 1 - Para cadastrar dados (Chuvas e Umidade)");
             System.out.println("Digite 2 - Para exibir mapa do campo e relatório de chuvas");
             System.out.println("Digite 3 - Para relatório de alertas de irrigação");
